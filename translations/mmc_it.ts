@@ -869,7 +869,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/ConsoleWindow.ui" line="+14"/>
         <source>MultiMC Console</source>
-        <translation type="unfinished">Terminale MultiMC</translation>
+        <translation>Terminale MultiMC</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -899,7 +899,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../gui/ConsoleWindow.cpp" line="+58"/>
         <source>Console window for </source>
         <translatorcomment>Non trovo una parola migliore.</translatorcomment>
-        <translation type="unfinished">Terminale per</translation>
+        <translation>Terminale per</translation>
     </message>
     <message>
         <location line="+120"/>
@@ -1073,7 +1073,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+13"/>
         <source>Minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1083,7 +1083,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+12"/>
         <source>Start Minecraft maximized?</source>
-        <translation type="unfinished">Lanciare Minecraft massimizzato?</translation>
+        <translation>Lanciare Minecraft massimizzato?</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1103,7 +1103,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+12"/>
         <source>Show console while the game is running?</source>
-        <translation type="unfinished">Mostrare finestra mentre Minecraft sta andando?</translation>
+        <translation>Mostrare finestra mentre Minecraft sta andando?</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1113,25 +1113,25 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+45"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">La quantità massima di memoria, che Minecraft è consentito di utilizzare.</translation>
+        <translation>La quantità massima di memoria, che Minecraft è consentito di utilizzare.</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+36"/>
         <location line="+22"/>
         <source> MB</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="-25"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">La quantità di memoria, con cui Minecraft viene partito.</translation>
+        <translation>La quantità di memoria, con cui Minecraft viene partito.</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>The amount of memory available to store loaded Java classes.</source>
         <translatorcomment>Non bene!</translatorcomment>
-        <translation type="unfinished">La quantità di memoria, che Minecraft ha a disposizione per depositare classi Java caricate.</translation>
+        <translation>La quantità di memoria, che Minecraft ha a disposizione per depositare classi Java caricate.</translation>
     </message>
     <message>
         <location line="+74"/>
@@ -1218,7 +1218,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+22"/>
         <source>Pre-launch command runs before the instance launches and post-exit command runs after it exits. Both will be run in MultiMC&apos;s working directory with INST_ID, INST_DIR, and INST_NAME as environment variables.</source>
-        <translation type="unfinished">Commandi pre-launch saranno eseguiti prima che Minecraft parti e commandu post-exit saranno eseguiti sopo la chiusura di Minecraft. Entrambi saranno eseguiti nel percorso di MultiMC con le variabli INST_ID, INST_DIR e INST_NAME.</translation>
+        <translation type="unfinished">Commandi pre-launch saranno eseguiti prima che Minecraft parti e commandi post-exit saranno eseguiti dopo la chiusura di Minecraft. Entrambi saranno eseguiti nel percorso di MultiMC con le variabli INST_ID, INST_DIR e INST_NAME.</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/InstanceSettings.cpp" line="+195"/>
@@ -1342,7 +1342,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-209"/>
         <source>MCForge</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1525,15 +1525,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>The login servers are currently unavailable. Check http://help.mojang.com/ for more info.</source>
-        <translation type="unfinished">Derzeit kann auf die Login-Server nicht zugegriffen werden. Für weitere Informationen siehe http://help.mojang.com/.</translation>
+        <translation>I server login non sono disponibili al momento. Per maggiori informazioni consulta http://help.mojang.com/.</translation>
     </message>
     <message>
         <source>Login failed: Unknown HTTP error %1 occurred.</source>
-        <translation type="unfinished">Login fehlgeschlagen. Unbekannter HTTP-Fehler: %1.</translation>
+        <translation>C´é stato un errore durante il login. Errore-HTTP sconosciuto: %1.</translation>
     </message>
     <message>
         <source>Login canceled.</source>
-        <translation type="unfinished">Login abgebrochen.</translation>
+        <translation>Login annullato.</translation>
     </message>
 </context>
 <context>
@@ -1541,24 +1541,24 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/widgets/MCModInfoFrame.ui" line="+26"/>
         <source>Frame</source>
-        <translation type="unfinished">Frame</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
         <location filename="../gui/widgets/MCModInfoFrame.cpp" line="+54"/>
         <source>Select a mod to view title and authors...</source>
-        <translation type="unfinished">Wähle eine Modifikation aus, um Titel und Autor(en) zu sehen...</translation>
+        <translation>Seleziona una mod, per vedere titolo ed autori...</translation>
     </message>
     <message>
         <location line="+19"/>
         <location filename="../gui/widgets/MCModInfoFrame.cpp" line="+1"/>
         <source>Select a mod to view description...</source>
-        <translation type="unfinished">Wähle eine Modifikation aus, um die Beschreibung zu sehen...</translation>
+        <translation>Seleziona una mod, per ricevere una descrizione...</translation>
     </message>
     <message>
         <location filename="../gui/widgets/MCModInfoFrame.cpp" line="-11"/>
         <source>No description provided in mcmod.info</source>
-        <translation type="unfinished">mcmod.info wurde mit keiner Beschreibung versehen</translation>
+        <translation>Non é stata inserita nessuna descrizione nella mcmod.info </translation>
     </message>
 </context>
 <context>
@@ -1566,7 +1566,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../logic/lists/MinecraftVersionList.cpp" line="+146"/>
         <source>Loading instance version list...</source>
-        <translation type="unfinished">Lade Liste von Minecraft-Versionen...</translation>
+        <translation>Caricamento della lista delle versioni dell&apos;istanza in corso...</translation>
     </message>
 </context>
 <context>
@@ -1574,72 +1574,72 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/MainWindow.ui" line="+14"/>
         <source>MultiMC 5</source>
-        <translation type="unfinished">MultiMC 5</translation>
+        <translation>MultiMC 5</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Main Toolbar</source>
-        <translation type="unfinished">Haupt-Werkzeugleiste</translation>
+        <translation>Barra degli strumenti principale</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Instance Toolbar</source>
-        <translation type="unfinished">Instanz-Werkzeugleiste</translation>
+        <translation>Barra degli strumenti dell&apos;istanza</translation>
     </message>
     <message>
         <location line="+43"/>
         <source>News Toolbar</source>
-        <translation type="unfinished">Nachrichten-Werkzeugleiste</translation>
+        <translation>Barra degli strumenti delle notizie</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Add Instance</source>
-        <translation type="unfinished">Instanz hinzufügen</translation>
+        <translation>Aggiungi istanza</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+3"/>
         <location line="+342"/>
         <source>Add a new instance.</source>
-        <translation type="unfinished">Neue Instanz erstellen.</translation>
+        <translation>Crea nuova istanza.</translation>
     </message>
     <message>
         <location line="-332"/>
         <source>View Instance Folder</source>
-        <translation type="unfinished">Instanzordner öffnen</translation>
+        <translation>Apri cartella istanze</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+3"/>
         <source>Open the instance folder in a file browser.</source>
-        <translation type="unfinished">Instanzordner im Dateimanager öffnen.</translation>
+        <translation>Apri la cartella delle istanze in un filemanager.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Refresh</source>
-        <translation type="unfinished">Aktualisieren</translation>
+        <translation>Aggiorna</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+3"/>
         <source>Reload the instance list.</source>
-        <translation type="unfinished">Instanzliste neuladen.</translation>
+        <translation>Ricarica la lista delle istanze.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>View Central Mods Folder</source>
-        <translation type="unfinished">Zenstralen Mod-Ordner öffnen</translation>
+        <translation>Visualizza cartella centrale delle mod</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+3"/>
         <source>Open the central mods folder in a file browser.</source>
-        <translation type="unfinished">Zentralen Mod-Ordner in einem Dateimanager öffnen.</translation>
+        <translation>Visualizza cartella centrale delle mod in un filemanager.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Check for Updates</source>
-        <translation type="unfinished">Auf Updates überprüfen</translation>
+        <translation>Controlla se ci sono aggiornamenti</translation>
     </message>
     <message>
         <location line="+3"/>
