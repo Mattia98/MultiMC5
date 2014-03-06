@@ -940,12 +940,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../logic/updater/DownloadUpdateTask.cpp" line="+81"/>
         <source>Finding information about the current version...</source>
-        <translation type="unfinished">Finde Informationen zur benutzten Version...</translation>
+        <translation>Trova informazioni sulla versione corrente...</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Loading version information...</source>
-        <translation type="unfinished">Lade Versionsinformationen...</translation>
+        <translation>Caricamento delle informationi della versione in corso...</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -955,17 +955,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+5"/>
         <source>Reading file list for new version...</source>
-        <translation type="unfinished">Bearbeite die Dateiliste der neuen Version...</translation>
+        <translation>Leggo la lista dei file per la nuova versione...</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Reading file list for current version...</source>
-        <translation type="unfinished">Bearbeite die Dateiliste der benutzten Version...</translation>
+        <translation>Leggo la lista dei file per la versione corrente...</translation>
     </message>
     <message>
         <location line="+90"/>
         <source>Failed to process update lists...</source>
-        <translation type="unfinished">C&apos;é stato un errore durante...</translation>
+        <translation>C&apos;é stato un errore durante l&apos;aggiornamento della lista delle versioni...</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -975,12 +975,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+14"/>
         <source>Processing file lists - figuring out how to install the update...</source>
-        <translation type="unfinished">Bearbeite Dateilisten - Rechne aus, wie das Update installiert werden soll...</translation>
+        <translation>Modifico la lista dei file - sto cercando di capire come installare l&apos;aggiornamentol...</translation>
     </message>
     <message>
         <location line="+213"/>
         <source>Failed to write update script file.</source>
-        <translation type="unfinished">Fehler beim Schreiben des Updatescripts.</translation>
+        <translation>C´é stato un errore durante la scritura dello script d&apos;aggiornamento.</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -993,22 +993,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/dialogs/EditAccountDialog.ui" line="+14"/>
         <source>Edit Account</source>
-        <translation type="unfinished">Bearbeite Konto</translation>
+        <translation>Modifica l&apos;account</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Message label placeholder.</source>
-        <translation type="unfinished">Message label placeholder.</translation>
+        <translation>Messaggio etichetta segnaposto.</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Email / Username</source>
-        <translation type="unfinished">E-Mail / Benutzername</translation>
+        <translation>E-Mail / Nomeutente</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Password</source>
-        <translation type="unfinished">Passwort</translation>
+        <translation>Passwort</translation>
     </message>
 </context>
 <context>
@@ -1016,12 +1016,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/dialogs/EditNotesDialog.ui" line="+14"/>
         <source>Edit Notes</source>
-        <translation type="unfinished">Notizen bearbeiten</translation>
+        <translatorcomment>o forse anche &quot;annotazione&quot;?</translatorcomment>
+        <translation>Modifica note</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/EditNotesDialog.cpp" line="+30"/>
         <source>Edit notes of %1</source>
-        <translation type="unfinished">Notizen von %1 bearbeiten</translation>
+        <translation>Modifica note di %1</translation>
     </message>
 </context>
 <context>
@@ -1029,7 +1030,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../logic/lists/ForgeVersionList.cpp" line="+161"/>
         <source>Fetching Forge version lists...</source>
-        <translation type="unfinished">Lade die Forge-Versionslisten...</translation>
+        <translation>Caricamento lista versioni di Forge...</translation>
     </message>
 </context>
 <context>
@@ -1037,29 +1038,29 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/dialogs/IconPickerDialog.ui" line="+14"/>
         <source>Pick icon</source>
-        <translation type="unfinished">Symbol auswählen</translation>
+        <translation>Scegli un&apos;icona</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/IconPickerDialog.cpp" line="+64"/>
         <source>Add Icon</source>
-        <translation type="unfinished">Symbol hinzufügen</translation>
+        <translation>Aggiungi icona</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Remove Icon</source>
-        <translation type="unfinished">Symbol entfernen</translation>
+        <translation>Rimuovi icona</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Select Icons</source>
         <extracomment>The title of the select icons open file dialog</extracomment>
-        <translation type="unfinished">Symbol auswählen</translation>
+        <translation>Apri icona</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Icons</source>
         <extracomment>The type of icon files</extracomment>
-        <translation type="unfinished">Symbole</translation>
+        <translation>Icone</translation>
     </message>
 </context>
 <context>
@@ -1067,7 +1068,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/dialogs/InstanceSettings.ui" line="+14"/>
         <source>Instance Settings</source>
-        <translation type="unfinished">Instanzeinstellungen</translation>
+        <translation>Impostazioni instanze</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1077,42 +1078,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+9"/>
         <source>Window Size</source>
-        <translation type="unfinished">Fenstergröße</translation>
+        <translation>Dimensione finestra</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Start Minecraft maximized?</source>
-        <translation type="unfinished">Minecraft maximiert starten?</translation>
+        <translation type="unfinished">Lanciare Minecraft massimizzato?</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Window height:</source>
-        <translation type="unfinished">Fensterhöhe:</translation>
+        <translation>Altezza finstra:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Window width:</source>
-        <translation type="unfinished">Fensterbreite:</translation>
+        <translation>Larghezza finestra:</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Console Settings</source>
-        <translation type="unfinished">Konsoleneinstellungen</translation>
+        <translation>Impostazioni terminale</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Show console while the game is running?</source>
-        <translation type="unfinished">Konsole anzeigen, während das Spiel läuft?</translation>
+        <translation type="unfinished">Mostrare finestra mentre Minecraft sta andando?</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Automatically close console when the game quits?</source>
-        <translation type="unfinished">Konsole automatisch schließen, nachdem das Spiel beendet wurde?</translation>
+        <translation>Chiudere automaticamente il terminale quando esci dal gioco?</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La quantità massima di memoria, che Minecraft è consentito di utilizzare.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1124,124 +1125,125 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="-25"/>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">La quantità di memoria, con cui Minecraft viene partito.</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Non bene!</translatorcomment>
+        <translation type="unfinished">La quantità di memoria, che Minecraft ha a disposizione per depositare classi Java caricate.</translation>
     </message>
     <message>
         <location line="+74"/>
         <source>Browse...</source>
-        <translation type="unfinished">Durchsuchen...</translation>
+        <translation>Sfoglia...</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Auto-detect...</source>
-        <translation type="unfinished">Auto-Erkennung...</translation>
+        <translation>Auto-rivelazione...</translation>
     </message>
     <message>
         <source>Account Settings</source>
-        <translation type="unfinished">Konteneinstellungen</translation>
+        <translation>Impostazioni account</translation>
     </message>
     <message>
         <source>Login automatically when an instance icon is double clicked?</source>
-        <translation type="unfinished">Automatisch einloggen, wenn das Instanzsymbol doppelt gecklickt wurde?</translation>
+        <translation>Effetuare il login automaticamente se viene doppiocliccato l&apos;icona dell&apos;istanza?</translation>
     </message>
     <message>
         <location line="-160"/>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Memory</source>
-        <translation type="unfinished">Arbeitsspeicher</translation>
+        <translation>Memoria</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Min. Arbeitsspeicher:</translation>
+        <translation>Memoria minima dedicata:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Max. Arbeitsspeicher:</translation>
+        <translation>Memoria massima dedicata:</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>PermGen:</source>
-        <translation type="unfinished">PermGen:</translation>
+        <translation>PermGen:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Java Settings</source>
-        <translation type="unfinished">Java-Einstellungen</translation>
+        <translation>Impostazioni Java</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Test</source>
-        <translation type="unfinished">Teste</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Java path:</source>
-        <translation type="unfinished">Java-Pfad:</translation>
+        <translation>Percorso Java:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>JVM arguments:</source>
-        <translation type="unfinished">JVM-Argumente:</translation>
+        <translation>Argomenti JVM:</translation>
     </message>
     <message>
         <source>Auto-detect</source>
-        <translation type="unfinished">Automatisch erkennen</translation>
+        <translation>Auto-rilevazione</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Custom Commands</source>
-        <translation type="unfinished">Eigene Befehle</translation>
+        <translation>Commandi personalizzati</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Post-exit command:</source>
-        <translation type="unfinished">Nach-Abschluss-Befehl:</translation>
+        <translation>Commandi post-exit:</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Pre-launch command:</source>
-        <translation type="unfinished">Vor-Start-Befehl:</translation>
+        <translation>Commandi pre-inizio:</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Pre-launch command runs before the instance launches and post-exit command runs after it exits. Both will be run in MultiMC&apos;s working directory with INST_ID, INST_DIR, and INST_NAME as environment variables.</source>
-        <translation type="unfinished">Vor-Start-Befehle werden ausgeführt, bevor die Instanz startet, Nach-Ende-Befehle nachdem die Instanz beendet wurde. Beide werden im Hauptverzeichnis von MultiMC gestartet. Verfügbare Umgebungsvariablen: INST_ID, INST_DIR, INST_NAME.</translation>
+        <translation type="unfinished">Commandi pre-launch saranno eseguiti prima che Minecraft parti e commandu post-exit saranno eseguiti sopo la chiusura di Minecraft. Entrambi saranno eseguiti nel percorso di MultiMC con le variabli INST_ID, INST_DIR e INST_NAME.</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/InstanceSettings.cpp" line="+195"/>
         <source>Select a Java version</source>
-        <translation type="unfinished">Wähle eine Java-Version</translation>
+        <translation>Scegli una versione Java</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Find Java executable</source>
-        <translation type="unfinished">Java-Programm finden</translation>
+        <translation>Trova Java</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>Java test success</source>
-        <translation type="unfinished">Java-Test erfolgreich abgeschlossen</translation>
+        <translation>Il test Java é stato effetuato corretamente</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Java test failure</source>
-        <translation type="unfinished">Java-Test fehlgeschlagen</translation>
+        <translation>C´é stato un errore durante il test Java</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The specified java binary didn&apos;t work. You should use the auto-detect feature, or set the path to the java executable.</source>
-        <translation type="unfinished">Das ausgewählte Java-Programm hat nicht funktioniert. Du solltest die Auto-Erkennung benutzen, oder den Pfad zum Java-Programm angeben.</translation>
+        <translation>L&apos;installazione di Java scelta da te non ha funzionato. Usa il rivelamento automatico di Jave o usa un&apos;installazione valida.</translation>
     </message>
 </context>
 <context>
@@ -1249,12 +1251,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../logic/tools/JProfiler.cpp" line="+24"/>
         <source>Listening on port: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sto ascoltando sulla porta %1</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler interrotto</translation>
     </message>
 </context>
 <context>
@@ -1262,12 +1264,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../logic/tools/JVisualVM.cpp" line="+21"/>
         <source>JVisualVM started</source>
-        <translation type="unfinished"></translation>
+        <translation>JVisualVM partito</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Profiler aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Profiler interrotto</translation>
     </message>
 </context>
 <context>
@@ -1275,7 +1277,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../logic/lists/JavaVersionList.cpp" line="+175"/>
         <source>Detecting Java installations...</source>
-        <translation type="unfinished">Suche nach Java-Installationen...</translation>
+        <translation>Sto cercando installazioni di Java...</translation>
     </message>
 </context>
 <context>
@@ -1283,7 +1285,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../logic/lists/LiteLoaderVersionList.cpp" line="+104"/>
         <source>Loading LiteLoader version list...</source>
-        <translation type="unfinished"></translation>
+        <translation>Caricamento lista delle versioni di LiteLoader in corso...</translation>
     </message>
 </context>
 <context>
@@ -1291,22 +1293,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/dialogs/LwjglSelectDialog.ui" line="+14"/>
         <source>Manage Lwjgl Versions</source>
-        <translation type="unfinished">LWJGL-Versionsverwaltung</translation>
+        <translation>Gestione versioni LWJGL</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Status label...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Etichetta di stato...</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Aktualisieren</translation>
+        <translation>&amp;Aggiorna</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/LwjglSelectDialog.cpp" line="+61"/>
         <source>Loading LWJGL version list...</source>
-        <translation type="unfinished">Lade LWJGL-Versionsliste...</translation>
+        <translation>Caricamento lista delle versioni LWJGL in corso...</translation>
     </message>
 </context>
 <context>
@@ -1314,12 +1316,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../gui/dialogs/LegacyModEditDialog.ui" line="+14"/>
         <source>Edit Mods</source>
-        <translation type="unfinished">Mods bearbeiten</translation>
+        <translation>Modifica le mod</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Jar Mods</source>
-        <translation type="unfinished">Jar-Mods</translation>
+        <translation>Jar Mods</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1327,7 +1329,7 @@ p, li { white-space: pre-wrap; }
         <location line="+69"/>
         <location line="+70"/>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Hinzufügen</translation>
+        <translation>&amp;Aggiungi</translation>
     </message>
     <message>
         <location line="-209"/>
@@ -1335,7 +1337,7 @@ p, li { white-space: pre-wrap; }
         <location line="+69"/>
         <location line="+70"/>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Entfernen</translation>
+        <translation>&amp;Rimuovi</translation>
     </message>
     <message>
         <location line="-209"/>
@@ -1345,69 +1347,69 @@ p, li { white-space: pre-wrap; }
     <message>
         <location line="+20"/>
         <source>Move &amp;Up</source>
-        <translation type="unfinished">Bewege &amp;nach oben</translation>
+        <translation>Muovi &amp;su</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Move &amp;Down</source>
-        <translation type="unfinished">Bewege &amp;nach unten</translation>
+        <translation>Muovi &amp;su</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Core Mods</source>
-        <translation type="unfinished">Coremods</translation>
+        <translation>Coremods</translation>
     </message>
     <message>
         <location line="+44"/>
         <location line="+69"/>
         <location line="+70"/>
         <source>&amp;View Folder</source>
-        <translation type="unfinished">&amp;Ordner öffnen</translation>
+        <translation>&amp;Visualizza cartella</translation>
     </message>
     <message>
         <location line="-117"/>
         <source>Loader Mods</source>
-        <translation type="unfinished">Normale Mods</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+72"/>
         <source>Texture Packs</source>
-        <translation type="unfinished">Texturenpakete</translation>
+        <translation>Texture Packs</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/OneSixModEditDialog.cpp" line="+401"/>
         <location filename="../gui/dialogs/LegacyModEditDialog.cpp" line="+258"/>
         <source>Select Loader Mods</source>
         <extracomment>Title of regular mod selection dialog</extracomment>
-        <translation type="unfinished">Mods auswählen</translation>
+        <translation>Seleziona le mod</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Select Resource Packs</source>
-        <translation type="unfinished">Ressourcenpakete auswählen</translation>
+        <translation>Seleziona Resource Packs</translation>
     </message>
     <message>
         <location filename="../gui/dialogs/LegacyModEditDialog.cpp" line="-58"/>
         <source>Select Core Mods</source>
         <extracomment>Title of core mod selection dialog</extracomment>
-        <translation type="unfinished">Coremods auswählen</translation>
+        <translation>Seleziona le coremod</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Select Forge version</source>
-        <translation type="unfinished">Wähle Forge-Version</translation>
+        <translation>Seleziona una versione di Forge</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Select Jar Mods</source>
         <extracomment>Title of jar mod selection dialog</extracomment>
-        <translation type="unfinished">Jarmods auswählen</translation>
+        <translation>Seleziona le jar-mod</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Select Texture Packs</source>
         <extracomment>Title of texture pack selection dialog</extracomment>
-        <translation type="unfinished">Texturenpakete auswählen</translation>
+        <translation>Seleziona Texture Packs</translation>
     </message>
 </context>
 <context>
@@ -1415,95 +1417,95 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../logic/LegacyUpdate.cpp" line="+80"/>
         <source>Downloading new LWJGL...</source>
-        <translation type="unfinished">LWJGL wird heruntergeladen...</translation>
+        <translation>Scaricamento di LWJGL in corso...</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>Installing new LWJGL...</source>
-        <translation type="unfinished">Neues LWJGL wird installiert...</translation>
+        <translation>Installazione di LWJGL in corso...</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>Installing new LWJGL - extracting </source>
-        <translation type="unfinished">Das neue LWJGL wird installiert - entpacken</translation>
+        <translation>Installo il nuovo LWJGL - estraggo</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Checking for jar updates...</source>
-        <translation type="unfinished">Suche nach Jar-Änderungen...</translation>
+        <translation>Controllo modifiche della jar...</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Downloading new minecraft.jar ...</source>
-        <translation type="unfinished">Neue minecraft.jar wird heruntergeladen...</translation>
+        <translation>Scaricamento di un nuovo minecraft.jar in corso...</translation>
     </message>
     <message>
         <location line="+33"/>
         <source>Installing mods: Adding </source>
-        <translation type="unfinished">Mod-Installation: Hinzufügen </translation>
+        <translation>Installazione mod: Aggiungi</translation>
     </message>
     <message>
         <location line="+86"/>
         <source>Installing mods: Backing up minecraft.jar ...</source>
-        <translation type="unfinished">Mod-Installation: Erstellen einer Sicherheitskopie von minecraft.jar...</translation>
+        <translation>Installazione mod: Creo backup di minecraft.jar ...</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Installing mods: Opening minecraft.jar ...</source>
-        <translation type="unfinished">Mod-Installation: minecraft.jar wird geöffnet...</translation>
+        <translation>Installazione mod: Aproi minecraft.jar ...</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Installing mods: Adding mod files...</source>
-        <translation type="unfinished">Mod-Installation: Mod-Dateien werden hinzugefügt...</translation>
+        <translation>Installazione mod: Aggiungo i file delle mod...</translation>
     </message>
 </context>
 <context>
     <name>LoginDialog</name>
     <message>
         <source>Login</source>
-        <translation type="unfinished">Einloggen</translation>
+        <translation>Login</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="unfinished">Nutzername:</translation>
+        <translation>Nomeutente:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Passwort:</translation>
+        <translation>Passwort:</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Passwort</translation>
+        <translation>Passwort</translation>
     </message>
     <message>
         <source>Forget</source>
-        <translation type="unfinished">Vergessen</translation>
+        <translation>Dimenticato</translation>
     </message>
     <message>
         <source>&amp;Remember Username?</source>
-        <translation type="unfinished">&amp;Nutzernamen speichern?</translation>
+        <translation>&amp;Ricordare nomeutente?</translation>
     </message>
     <message>
         <source>R&amp;emember Password?</source>
-        <translation type="unfinished">&amp;Passwort speichern?</translation>
+        <translation>R&amp;icordare passwort?</translation>
     </message>
     <message>
         <source>Offline Once</source>
         <extracomment>Use offline mode one time</extracomment>
-        <translation type="unfinished">Einmal Offline-Modus verwenden</translation>
+        <translation>Usare modalitá offlinie solo una volta</translation>
     </message>
     <message>
         <source>Name</source>
         <extracomment>The username during login (placeholder)</extracomment>
-        <translation type="unfinished">Name</translation>
+        <translation>Nomeutente</translation>
     </message>
 </context>
 <context>
     <name>LoginTask</name>
     <message>
         <source>Logging in...</source>
-        <translation type="unfinished">Einloggen...</translation>
+        <translation>Login in corso...</translation>
     </message>
     <message>
         <source>Failed to parse Minecraft version string.</source>
@@ -1511,15 +1513,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Invalid username or password.</source>
-        <translation type="unfinished">Falscher Nutzername oder Passwort.</translation>
+        <translation>Nomeutente o passwort errata.</translation>
     </message>
     <message>
         <source>Launcher outdated, please update.</source>
-        <translation type="unfinished">Veralteter Launcher, bitte lade ein Update herunter.</translation>
+        <translation>Launcher vecchio, prego effetuare un update.</translation>
     </message>
     <message>
         <source>Login failed: %1</source>
-        <translation type="unfinished">Login fehlgeschlagen: %1</translation>
+        <translation>C´é stato un errore durante il login: %1</translation>
     </message>
     <message>
         <source>The login servers are currently unavailable. Check http://help.mojang.com/ for more info.</source>
